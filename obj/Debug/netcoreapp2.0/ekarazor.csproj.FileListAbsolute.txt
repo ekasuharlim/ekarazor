@@ -1,0 +1,10 @@
+/Users/maria/Documents/Eka/experiment/ekarazor/bin/Debug/netcoreapp2.0/ekarazor.deps.json
+/Users/maria/Documents/Eka/experiment/ekarazor/bin/Debug/netcoreapp2.0/ekarazor.runtimeconfig.json
+/Users/maria/Documents/Eka/experiment/ekarazor/bin/Debug/netcoreapp2.0/ekarazor.runtimeconfig.dev.json
+/Users/maria/Documents/Eka/experiment/ekarazor/bin/Debug/netcoreapp2.0/ekarazor.dll
+/Users/maria/Documents/Eka/experiment/ekarazor/bin/Debug/netcoreapp2.0/ekarazor.pdb
+/Users/maria/Documents/Eka/experiment/ekarazor/obj/Debug/netcoreapp2.0/ekarazor.csproj.CoreCompileInputs.cache
+/Users/maria/Documents/Eka/experiment/ekarazor/obj/Debug/netcoreapp2.0/ekarazor.AssemblyInfoInputs.cache
+/Users/maria/Documents/Eka/experiment/ekarazor/obj/Debug/netcoreapp2.0/ekarazor.AssemblyInfo.cs
+/Users/maria/Documents/Eka/experiment/ekarazor/obj/Debug/netcoreapp2.0/ekarazor.dll
+/Users/maria/Documents/Eka/experiment/ekarazor/obj/Debug/netcoreapp2.0/ekarazor.pdb
